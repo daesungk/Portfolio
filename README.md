@@ -1,19 +1,24 @@
 # Projects
 
-A collection of research, quantitative finance, and machine learning projects.  
+A collection of quantitative finance and machine learning projects.  
 
 ## Contents
 
-### math-research/
+### trading-strategy/
+- mean revertion
 
-### finance/
+### risk-management/
+- MBS simulation and risk analysis
+- Credit card default model
+- Credit card fraud detection
 
-### machine-learning/
-
-## Tools & Libraries
-
-- Python: `NumPy`, `Pandas`, `Matplotlib`, `Scikit-learn`, `CVXPY`, `Numba`
-- Jupyter notebooks: For exploration, modeling, and visualization
+### monte-carlo-simulation/
+- GBM
+- Heston model
+- Ornstein-Uhlenbeck
+- CIR model
+- Hull-White
+- SABR model
 
 ## Author
 
